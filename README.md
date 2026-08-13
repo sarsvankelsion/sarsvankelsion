@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="profile-banner.svg" alt="sarsRS banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm sarsRS</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;Go+%7C+Python+%7C+TypeScript+%7C+C%2B%2B;Building+cool+things+on+GitHub&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sarsvankelsion&color=0e75b6&style=flat" alt="profile views">
